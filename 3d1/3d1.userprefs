@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\againply.cs">
+    <Files>
+      <File FileName="Assets\script\mov.cs" Line="91" Column="13" />
+      <File FileName="Assets\script\a_apple.cs" Line="30" Column="5" />
+      <File FileName="Assets\script\b_boll.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\c_cat.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\d_dog.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\e_ele.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\f_fog.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\g_got.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\h_hor.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\i_ice.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\j_jakal.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\k_king.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\l_lie.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\m_mango.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\n_nose.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\O_orange.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\p_pot.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Q_quen.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\r_rose.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\s_six.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\t_top.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\U_umb.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\v_viras.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\W_water.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\X_mi.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Y_yellow.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Z_zoo.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\againply.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
